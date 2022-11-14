@@ -1,0 +1,4 @@
+- 👋 Salut je suis @tonali
+-  Je suis un débutant dans le développement/programmation
+-  Actuellement, j'apprends le Python principalement, et le HTML
+-  Je n'ai pas de projets pour l'instant
